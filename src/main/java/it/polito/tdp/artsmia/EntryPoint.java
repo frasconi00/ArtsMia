@@ -1,4 +1,4 @@
-package it.polito.tdp.artsmia;
+package it.polito.tdp.artsmia; 
 
 import javafx.application.Application;
 import static javafx.application.Application.launch;
